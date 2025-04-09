@@ -1,3 +1,5 @@
 1-"O prazer no trabalho aperfeiçoa a obra."
 2-"Você nunca fará nada neste mundo sem coragem."
 3-"Nunca existiu uma grande inteligência sem uma veia de loucura." 
+4-"O ignorante afirma, o sábio duvida, o sensato reflete." 
+5-"Ter muitos amigos é não ter nenhum."
